@@ -5,3 +5,7 @@ UV torches available from: https://cybernightmarket.com/products/mini-far-uvc-li
 This holder makes it easier to position on a dining table and can be assembled/disassembled without tools.
 
 STL files for 3D printing are provided.
+
+![Screenshot](IMG_1873%20Large.jpeg)
+
+![Screenshot](IMG_1874%20Large.jpeg)
